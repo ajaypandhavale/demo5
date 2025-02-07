@@ -4,5 +4,7 @@ public class Demo {
 
         System.out.println("adding after first commit");
 
+        System.out.println("pushing using update branch");
+
     }
 }
