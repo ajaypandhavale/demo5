@@ -7,6 +7,6 @@ public class Demo {
         System.out.println("pushing using update branch");
 
 
-        System.out.println("change");
+        System.out.println("restart");
     }
 }
